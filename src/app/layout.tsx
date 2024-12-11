@@ -1,4 +1,5 @@
 import { metadata } from './_functions/metadata';
+
 import './globals.css';
 
 import QueryProviders from '@/providers/tanstack-query/QueryProvider';
